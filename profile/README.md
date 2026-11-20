@@ -6,7 +6,7 @@
 <div align="center">
 
 <!-- GPRM Dynamic Wavy Header Banner -->
-<img src=\"https://raw.githubusercontent.com/ToolNPlay/.github/main/profile/header.png\" width=\"100%\" alt=\"ToolNPlay Header\" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=ToolNPlay&fontSize=68&fontColor=ffffff&fontAlignY=38&desc=High-Performance%20Native%20Utilities%20%E2%80%A2%20Privacy-First%20Apps&descFontSize=19&descAlignY=62" width="100%" alt="ToolNPlay Header" />
 
 <!-- GPRM Live Visitor Counter & Stats Badges -->
 <p align="center">
